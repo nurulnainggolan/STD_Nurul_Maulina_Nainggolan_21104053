@@ -1,0 +1,16 @@
+#ifndef OUTPUT_
+#define OUTPUT_
+
+
+class output
+{
+    public:
+        output();
+        virtual ~output();
+
+    protected:
+
+    private:
+};
+
+#endif // OUTPUT_
