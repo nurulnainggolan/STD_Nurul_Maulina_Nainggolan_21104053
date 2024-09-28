@@ -1,0 +1,11 @@
+#include "TP_Perulangan_TO-Do.cpp"
+
+TP_Perulangan_TO-Do::TP_Perulangan_TO-Do()
+{
+    //ctor
+}
+
+TP_Perulangan_TO-Do::~TP_Perulangan_TO-Do()
+{
+    //dtor
+}

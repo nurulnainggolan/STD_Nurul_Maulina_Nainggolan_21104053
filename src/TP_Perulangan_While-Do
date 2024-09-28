@@ -1,0 +1,11 @@
+#include "TP_Perulangan_While-Do.cpp"
+
+TP_Perulangan_While-Do::TP_Perulangan_While-Do()
+{
+    //ctor
+}
+
+TP_Perulangan_While-Do::~TP_Perulangan_While-Do()
+{
+    //dtor
+}
