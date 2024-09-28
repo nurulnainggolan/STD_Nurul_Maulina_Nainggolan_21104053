@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="STD_TP_MODUL1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/STD_TP_MODUL1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/STD_TP_MODUL1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/TP_Operasi_Aritmatika.cpp" />
+		<Unit filename="include/TP_Operasi_Logika.cpp" />
+		<Unit filename="include/TP_Operasi_Perbandingan.cpp" />
+		<Unit filename="include/TP_Percabangan_if-else.cpp" />
+		<Unit filename="include/TP_Perulangan_TO-Do.cpp" />
+		<Unit filename="include/TP_Perulangan_While-Do.cpp" />
+		<Unit filename="include/TP_input_output.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/TP_Operasi_Aritmatika." />
+		<Unit filename="src/TP_Operasi_Logika." />
+		<Unit filename="src/TP_Operasi_Perbandingan." />
+		<Unit filename="src/TP_Percabangan_if-else." />
+		<Unit filename="src/TP_Perulangan_TO-Do." />
+		<Unit filename="src/TP_Perulangan_While-Do." />
+		<Unit filename="src/TP_input_output." />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

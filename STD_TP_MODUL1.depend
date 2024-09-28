@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1727496763 source:c:\praktikumstruk\std_tp_modul1\main.cpp
+
+1727497225 source:c:\praktikumstruk\std_tp_modul1\include\tp_input_output.cpp
+	<iostream>
+
+1727497718 source:c:\praktikumstruk\std_tp_modul1\include\tp_operasi_aritmatika.cpp
+	<iostream>
+
+1727497937 source:c:\praktikumstruk\std_tp_modul1\include\tp_operasi_perbandingan.cpp
+	<iostream>
+
+1727498077 source:c:\praktikumstruk\std_tp_modul1\include\tp_operasi_logika.cpp
+	<iostream>
+
+1727498254 source:c:\praktikumstruk\std_tp_modul1\include\tp_percabangan_if-else.cpp
+	<iostream>
+
+1727498262 source:c:\praktikumstruk\std_tp_modul1\include\tp_perulangan_to-do.cpp
+	<iostream>
+
+1727498467 source:c:\praktikumstruk\std_tp_modul1\include\tp_perulangan_while-do.cpp
+	<iostream>
+
