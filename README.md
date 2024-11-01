@@ -1,0 +1,1 @@
+# 21104053_Strruktur-Data
