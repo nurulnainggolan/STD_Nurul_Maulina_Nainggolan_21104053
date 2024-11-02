@@ -1,7 +1,14 @@
+//Program ini bertujuan untuk memeriksa apakah suatu kalimat adalah polidrome, yaitu kalimat yang dibaca dari 
+//depan dan belakang tetap sama dengan menggunakan stack
+//bool isPalindrome digunakan untuk mengecek apakah kalimat tersebut adalah polidrome dengan
+//menggunakan true false
+
 #include <iostream>
 #include <stack>
 #include <string>
 #include <algorithm>
+
+
 
 bool isPalindrome(const std::string &kalimat) {
     std::stack<char> stack;
@@ -37,3 +44,4 @@ int main() {
 
     return 0;
 }
+
