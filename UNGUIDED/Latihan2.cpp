@@ -1,3 +1,8 @@
+//program ini merupakan program untuk menerima sebuah kaliam lalu membalik setiap kata dalam kalimat
+//charStack digunakan untuk membalikkan urutan huruf
+//setiap kata didorong oleh perintah push ke dalam stack
+//kemudian dikeluarkan menggunakan fungsi pop
+
 #include <iostream>
 #include <stack>
 #include <sstream>
