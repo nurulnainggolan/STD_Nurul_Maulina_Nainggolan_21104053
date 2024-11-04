@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-const int maksimalQueue = 5;    //maksimal antrian
+const int maksimalQueue = 5;   //maksimal antrian
 int front =0;                   //Penanda antrian
 int back = 0;                   //Penanda
 string queueTeller[5];          //fungsi pengecekan
